@@ -1,7 +1,7 @@
 
 # Assignments
 
-file:///C:/Users/h%C3%BCseyin/Desktop/Assigment%201.html
+Assigment 1.html
 
 ## Exercises
 
