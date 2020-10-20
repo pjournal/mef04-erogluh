@@ -1,8 +1,8 @@
 
 # Assignments
 
-Assigment 1.html
+[RMarkdown Assignment](Assigment 1.html)
 
 ## Exercises
 
-Exercises of Week 1.html
+[Week 1 Exercises](Exercises of Week 1.html)
