@@ -9,4 +9,4 @@
 
 ## Exercises 1
 
-[Week 1 Exercises](Exercises of Week 1.html)
+[Week 1 Exercises](Exercise 1.html)
