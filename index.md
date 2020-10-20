@@ -1,7 +1,7 @@
 
 # Assignments
 
-https://github.com/pjournal/mef04-erogluh/blob/gh-pages/Assignment
+file:///C:/Users/h%C3%BCseyin/Desktop/Assigment%201.htm
 
 ## Exercises
 
