@@ -1,7 +1,7 @@
 
 # Assignments
 
-[RMarkdown Assignment](Assignment1.html)
+<a href="Assignment1.html"</a>
 
 ## Exercises
 
