@@ -1,7 +1,7 @@
 
 # Assignments
 
-[RMarkdown Assignment](Assignment1.html)
+https://github.com/pjournal/mef04-erogluh/blob/gh-pages/Assignment
 
 ## Exercises
 
