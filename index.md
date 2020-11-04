@@ -3,7 +3,7 @@
 
 ## Assignment 1
 
-[RMarkdown Assignment](Assigment 1.html)
+[RMarkdown Assignment](Asignment-Week-1.html)
 
 # Exercises
 
